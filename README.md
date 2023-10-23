@@ -1,4 +1,6 @@
-# Trickstermatch
+# Trickstermatch (THIS TOOL HAS BEEN RETIRED)
 Trickstermatch is a open source tool that I developed to search for plain text IOC strings related to Trickbot, after you dump the strings from an unpacked sample. It was developed and  compiled on July 28, 2019.
 
 Requirements: Must have Java installed to run this program.
+
+NOTE: THIS TOOL HAS BEEN RETIRED AND IS NO LONG SUPPORTED
